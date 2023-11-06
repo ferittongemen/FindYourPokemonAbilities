@@ -39,7 +39,7 @@ def get_poke_abilities():
 
 # GUI
 win = Tk()
-win.config()
+win.title("Find Your Pokemon Ability")
 win.geometry("700x500")
 
 frame = Frame(win, width=100, height=100)
